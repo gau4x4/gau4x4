@@ -17,7 +17,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="(https://github.com/gau4x4/gau4x4/blob/output/github-contribution-grid-snake.gif)"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
