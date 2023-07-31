@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Front-end and Different User Interfaces
 - 🌱 I’m currently learning ... Human-Computer Interaction and Data Structures with problem-Solving
 - 💞️ I’m looking to collaborate on ... Everything.
-- 📫 How to reach me ... - 📫 How to reach me ... (https://www.linkedin.com/in/gaurav-uf/)
+- 📫 How to reach me ... - 📫 How to reach me ... (https://www.linkedin.com/in/gauravuf/)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
